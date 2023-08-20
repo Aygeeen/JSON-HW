@@ -1,0 +1,18 @@
+.card{
+    width: 150px;
+    border: 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    flex-direction: column;
+    padding: 5px;
+}
+.peoples-block{
+    display: flex;
+    width: 100%;
+    align-content: center;
+    flex-wrap: wrap;
+}
+.img{
+    width: 50px;
+}
